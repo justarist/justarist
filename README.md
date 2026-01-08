@@ -12,11 +12,36 @@
     <h1>Support me:</h1>
 </div>
 
-<div align="center" style="display: flex; justify-content: space-evenly; width: 50%; margin: 0 auto; width: fit-content;">
-    <a href="https://boosty.to/justarist" style="background-color: #0d1117; color: #FFFFFF; border-radius: 14px; border: 3px solid #3d444d; display: flex; justify-content: center; gap: 12px; align-items: center; text-decoration: none; margin: 0 12px; padding: 12px 60px; margin-top: 1px; margin-bottom: 1px; font-size: 32px; white-space: nowrap;"><img src="/images/icons/boosty.svg" type="image/svg+xml" width="60" height="60" alt="Boosty">Boosty</a>
-    <a href="https://donationalerts.com/r/justarist" style="background-color: #0d1117; color: #FFFFFF; border-radius: 14px; border: 3px solid #3d444d; display: flex; justify-content: center; gap: 12px; align-items: center; text-decoration: none; margin: 0 12px; padding: 12px 60px; margin-top: 1px; margin-bottom: 1px; font-size: 32px; white-space: nowrap;"><img src="/images/icons/donationalerts.svg" type="image/svg+xml" width="45" height="45" alt="DAlerts">DAlerts</a>
-    <a href="https://ko-fi.com/justarist" style="background-color: #0d1117; color: #FFFFFF; border-radius: 14px; border: 3px solid #3d444d; display: flex; justify-content: center; gap: 12px; align-items: center; text-decoration: none; margin: 0 12px; padding: 12px 60px; margin-top: 1px; margin-bottom: 1px; font-size: 32px; white-space: nowrap;"><img src="/images/icons/ko-fi.svg" type="image/svg+xml" width="60" height="60" alt="Ko-Fi">Ko-Fi</a>
-    <a href="https://patreon.com/justarist" style="background-color: #0d1117; color: #FFFFFF; border-radius: 14px; border: 3px solid #3d444d; display: flex; justify-content: center; gap: 12px; align-items: center; text-decoration: none; margin: 0 12px; padding: 12px 60px; margin-top: 1px; margin-bottom: 1px; font-size: 32px; white-space: nowrap;"><img src="/images/icons/patreon.svg" type="image/svg+xml" width="60" height="60" alt="Patreon">Patreon</a>
+<div align="center">
+    <svg xmlns="http://www.w3.org/2000/svg" width="286" height="90">
+        <a href="https://boosty.to/justarist" target="_blank">
+            <rect x="3" y="3" width="280" height="84" rx="14" ry="14" fill="#0d1117" stroke="#3d444d" stroke-width="3"/>
+            <image href="https://raw.githubusercontent.com/JustArist/storage/main/images/icons/boosty.svg
+            " x="23" y="15" width="60" height="60"/>
+            <text x="166" y="57" fill="#FFFFFF" font-size="32" font-family="Arial, sans-serif" text-anchor="middle">Boosty</text>
+        </a>
+    </svg>&nbsp;&nbsp;&nbsp;
+    <svg xmlns="http://www.w3.org/2000/svg" width="286" height="90">
+        <a href="https://donationalerts.com/r/justarist" target="_blank">
+            <rect x="3" y="3" width="280" height="84" rx="14" ry="14" fill="#0d1117" stroke="#3d444d" stroke-width="3"/>
+            <image href="https://raw.githubusercontent.com/JustArist/storage/main/images/icons/donationalerts.svg" x="23" y="21" width="45" height="45"/>
+            <text x="166" y="57" fill="#FFFFFF" font-size="32" font-family="Arial, sans-serif" text-anchor="middle">DAlerts</text>
+        </a>
+    </svg>&nbsp;&nbsp;&nbsp;
+    <svg xmlns="http://www.w3.org/2000/svg" width="286" height="90">
+        <a href="https://ko-fi.com/justarist" target="_blank">
+            <rect x="3" y="3" width="280" height="84" rx="14" ry="14" fill="#0d1117" stroke="#3d444d" stroke-width="3"/>
+            <image href="https://raw.githubusercontent.com/JustArist/storage/main/images/icons/ko-fi.svg" x="23" y="15" width="60" height="60"/>
+            <text x="166" y="57" fill="#FFFFFF" font-size="32" font-family="Arial, sans-serif" text-anchor="middle">Ko-Fi</text>
+        </a>
+    </svg>&nbsp;&nbsp;&nbsp;
+    <svg xmlns="http://www.w3.org/2000/svg" width="286" height="90">
+        <a href="https://patreon.com/justarist" target="_blank">
+            <rect x="3" y="3" width="280" height="84" rx="14" ry="14" fill="#0d1117" stroke="#3d444d" stroke-width="3"/>
+            <image href="https://raw.githubusercontent.com/JustArist/storage/main/images/icons/patreon.svg" x="23" y="15" width="60" height="60"/>
+            <text x="166" y="57" fill="#FFFFFF" font-size="32" font-family="Arial, sans-serif" text-anchor="middle">Patreon</text>
+        </a>
+    </svg>
 </div>
 
 <div align="center">
@@ -24,8 +49,32 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: space-evenly; width: 50%; margin: 0 auto; width: fit-content;">
-    <a href="https://t.me/radaroneteam" style="background-color: #0d1117; color: #FFFFFF; border-radius: 14px; border: 3px solid #3d444d; display: flex; justify-content: center; gap: 12px; align-items: center; text-decoration: none; margin: 0 12px; padding: 12px 48px; margin-top: 1px; margin-bottom: 1px; font-size: 32px; white-space: nowrap;"><img src="/images/icons/telegram.svg" type="image/svg+xml" width="60" height="60" alt="TG Channel">TG Channel</a>
-    <a href="https://t.me/radaronebot" style="background-color: #0d1117; color: #FFFFFF; border-radius: 14px; border: 3px solid #3d444d; display: flex; justify-content: center; gap: 12px; align-items: center; text-decoration: none; margin: 0 12px; padding: 12px 48px; margin-top: 1px; margin-bottom: 1px; font-size: 32px; white-space: nowrap;"><img src="/images/icons/telegram-bot.svg" type="image/svg+xml" width="45" height="45" alt="TG Bot">TG Bot</a>
-    <a href="https://radarone.online" style="background-color: #0d1117; color: #FFFFFF; border-radius: 14px; border: 3px solid #3d444d; display: flex; justify-content: center; gap: 12px; align-items: center; text-decoration: none; margin: 0 12px; padding: 12px 48px; margin-top: 1px; margin-bottom: 1px; font-size: 32px; white-space: nowrap;"><img src="/images/icons/web.svg" type="image/svg+xml" width="60" height="60" alt="Website">Website</a>
-    <a href="https://github.com/justarist/radarone" style="background-color: #0d1117; color: #FFFFFF; border-radius: 14px; border: 3px solid #3d444d; display: flex; justify-content: center; gap: 12px; align-items: center; text-decoration: none; margin: 0 12px; padding: 12px 48px; margin-top: 1px; margin-bottom: 1px; font-size: 32px; white-space: nowrap;"><img src="/images/icons/github.svg" type="image/svg+xml" width="60" height="60" alt="GitHub">GitHub</a>
+    <svg xmlns="http://www.w3.org/2000/svg" width="286" height="90">
+            <a href="https://t.me/radaroneteam" target="_blank">
+            <rect x="3" y="3" width="280" height="84" rx="14" ry="14" fill="#0d1117" stroke="#3d444d" stroke-width="3"/>
+            <image href="https://raw.githubusercontent.com/JustArist/storage/main/images/icons/telegram.svg" x="23" y="15" width="60" height="60"/>
+            <text x="166" y="57" fill="#FFFFFF" font-size="32" font-family="Arial, sans-serif" text-anchor="middle">TG Channel</text>
+        </a>
+    </svg>&nbsp;&nbsp;&nbsp;
+    <svg xmlns="http://www.w3.org/2000/svg" width="286" height="90">
+        <a href="https://t.me/radaronebot" target="_blank">
+            <rect x="3" y="3" width="280" height="84" rx="14" ry="14" fill="#0d1117" stroke="#3d444d" stroke-width="3"/>
+            <image href="https://raw.githubusercontent.com/JustArist/storage/main/images/icons/telegram-bot.svg" x="23" y="21" width="45" height="45"/>
+            <text x="166" y="57" fill="#FFFFFF" font-size="32" font-family="Arial, sans-serif" text-anchor="middle">TG Bot</text>
+        </a>
+    </svg>&nbsp;&nbsp;&nbsp;
+    <svg xmlns="http://www.w3.org/2000/svg" width="286" height="90">
+        <a href="https://radarone.online" target="_blank">
+            <rect x="3" y="3" width="280" height="84" rx="14" ry="14" fill="#0d1117" stroke="#3d444d" stroke-width="3"/>
+            <image href="https://raw.githubusercontent.com/JustArist/storage/main/images/icons/web.svg" x="23" y="15" width="60" height="60"/>
+            <text x="166" y="57" fill="#FFFFFF" font-size="32" font-family="Arial, sans-serif" text-anchor="middle">Website</text>
+        </a>
+    </svg>&nbsp;&nbsp;&nbsp;
+    <svg xmlns="http://www.w3.org/2000/svg" width="286" height="90">
+        <a href="https://github.com/justarist/radarone" target="_blank">
+            <rect x="3" y="3" width="280" height="84" rx="14" ry="14" fill="#0d1117" stroke="#3d444d" stroke-width="3"/>
+            <image href="https://raw.githubusercontent.com/JustArist/storage/main/images/icons/github.svg" x="23" y="15" width="60" height="60"/>
+            <text x="166" y="57" fill="#FFFFFF" font-size="32" font-family="Arial, sans-serif" text-anchor="middle">GitHub</text>
+        </a>
+    </svg>
 </div>
