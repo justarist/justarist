@@ -64,7 +64,7 @@
     <a href="https://boosty.to/justarist">
         <img alt="Boosty" src="https://img.shields.io/badge/Boosty-f0622d?style=for-the-badge&logo=boosty&logoColor=FFFFFF&logoSize=auto" height="28" />
     </a>
-    <a href="https://ko-fi/justarist">
+    <a href="https://ko-fi.com/justarist">
         <img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--Fi-2ba0d1?style=for-the-badge&logo=kofi&logoColor=FFFFFF&logoSize=auto" height="28" />
     </a>
     <a href="https://patreon.com/justarist">
@@ -73,7 +73,7 @@
     <a href="https://donationalerts.com/r/justarist">
         <img alt="DonationAlerts" src="https://img.shields.io/badge/DonationAlerts-97ca00?style=for-the-badge&logo=donationalerts&logoColor=FFFFFF&logoSize=auto" height="28" />
     </a>
-    <a href="https://radarone.online">
+    <a href="https://radarone.online/donate">
         <img alt="Crypto" src="https://img.shields.io/badge/Crypto-ef8e19?style=for-the-badge&logo=bitcoin&logoColor=FFFFFF&logoSize=auto" height="28" />
     </a>
 </div>
