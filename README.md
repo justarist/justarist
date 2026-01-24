@@ -29,7 +29,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF&logoSize=auto" height="28" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=javascript&logoColor=FFFFFF&logoSize=auto" height="28" />
     <img alt="HTML" src="https://img.shields.io/badge/HTML-dd4b25?style=for-the-badge&logo=html5&logoColor=FFFFFF&logoSize=auto" height="28" />
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-39acdd?style=for-the-badge&logo=css&logoColor=FFFFFF&logoSize=auto" height="28" />
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=FFFFFF&logoSize=auto" height="28" />
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&logoSize=auto" height="28" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=FFFFFF&logoSize=auto" height="28" />
     <img alt="CI / CD" src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=FFFFFF&logoSize=auto" height="28" />
