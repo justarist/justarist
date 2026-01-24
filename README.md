@@ -5,89 +5,75 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustArist&bg_color=0d1117&title_color=3178C6&color=3178C6&line=3178C6&point=3178C6&area=true&hide_border=true&area_color=3178C6"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustArist&bg_color=0d1117&title_color=3a8fec&color=3a8fec&line=3a8fec&point=3a8fec&area=true&hide_border=true&area_color=3a8fec"/>
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=JustArist&show_icons=true&hide_border=true&theme=transparent&title_color=3178C6&text_color=999&icon_color=3178C6" alt="Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=JustArist&show_icons=true&hide_border=true&theme=transparent&title_color=3a8fec&text_color=999&icon_color=3a8fec" alt="Stats" />
       </td>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustArist&theme=transparent&hide_border=true&layout=compact&langs_count=6&hide=dockerfile,shell,powershell&size_weight=1&count_weight=1&title_color=3178C6&text_color=999" alt="Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustArist&theme=transparent&hide_border=true&layout=compact&langs_count=6&hide=dockerfile,shell,powershell&size_weight=1&count_weight=1&title_color=3a8fec&text_color=999" alt="Languages" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-    <h1>Support me:</h1>
+    <h1>Tech Stack</h1>
 </div>
 
 <div align="center">
-    <svg xmlns="http://www.w3.org/2000/svg" width="286" height="90">
-        <a href="https://boosty.to/justarist" target="_blank">
-            <rect x="3" y="3" width="280" height="84" rx="14" ry="14" fill="#0d1117" stroke="#3d444d" stroke-width="3"/>
-            <image href="https://raw.githubusercontent.com/JustArist/storage/main/images/icons/boosty.svg
-            " x="23" y="15" width="60" height="60"/>
-            <text x="166" y="57" fill="#FFFFFF" font-size="32" font-family="Arial, sans-serif" text-anchor="middle">Boosty</text>
-        </a>
-    </svg>&nbsp;&nbsp;&nbsp;
-    <svg xmlns="http://www.w3.org/2000/svg" width="286" height="90">
-        <a href="https://donationalerts.com/r/justarist" target="_blank">
-            <rect x="3" y="3" width="280" height="84" rx="14" ry="14" fill="#0d1117" stroke="#3d444d" stroke-width="3"/>
-            <image href="https://raw.githubusercontent.com/JustArist/storage/main/images/icons/donationalerts.svg" x="23" y="21" width="45" height="45"/>
-            <text x="166" y="57" fill="#FFFFFF" font-size="32" font-family="Arial, sans-serif" text-anchor="middle">DAlerts</text>
-        </a>
-    </svg>&nbsp;&nbsp;&nbsp;
-    <svg xmlns="http://www.w3.org/2000/svg" width="286" height="90">
-        <a href="https://ko-fi.com/justarist" target="_blank">
-            <rect x="3" y="3" width="280" height="84" rx="14" ry="14" fill="#0d1117" stroke="#3d444d" stroke-width="3"/>
-            <image href="https://raw.githubusercontent.com/JustArist/storage/main/images/icons/ko-fi.svg" x="23" y="15" width="60" height="60"/>
-            <text x="166" y="57" fill="#FFFFFF" font-size="32" font-family="Arial, sans-serif" text-anchor="middle">Ko-Fi</text>
-        </a>
-    </svg>&nbsp;&nbsp;&nbsp;
-    <svg xmlns="http://www.w3.org/2000/svg" width="286" height="90">
-        <a href="https://patreon.com/justarist" target="_blank">
-            <rect x="3" y="3" width="280" height="84" rx="14" ry="14" fill="#0d1117" stroke="#3d444d" stroke-width="3"/>
-            <image href="https://raw.githubusercontent.com/JustArist/storage/main/images/icons/patreon.svg" x="23" y="15" width="60" height="60"/>
-            <text x="166" y="57" fill="#FFFFFF" font-size="32" font-family="Arial, sans-serif" text-anchor="middle">Patreon</text>
-        </a>
-    </svg>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF&logoSize=auto" height="28" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=javascript&logoColor=FFFFFF&logoSize=auto" height="28" />
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-dd4b25?style=for-the-badge&logo=html5&logoColor=FFFFFF&logoSize=auto" height="28" />
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-39acdd?style=for-the-badge&logo=css&logoColor=FFFFFF&logoSize=auto" height="28" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&logoSize=auto" height="28" />
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=FFFFFF&logoSize=auto" height="28" />
+    <img alt="CI / CD" src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=FFFFFF&logoSize=auto" height="28" />
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF&logoSize=auto" height="28" />
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF&logoSize=auto" height="28" />
 </div>
 
 <div align="center">
-    <h1>Currently working on Radar ONE:</h1>
+    <h1>Currently Working On Radar ONE</h1>
 </div>
 
-<div align="center" style="display: flex; justify-content: space-evenly; width: 50%; margin: 0 auto; width: fit-content;">
-    <svg xmlns="http://www.w3.org/2000/svg" width="286" height="90">
-            <a href="https://t.me/radaroneteam" target="_blank">
-            <rect x="3" y="3" width="280" height="84" rx="14" ry="14" fill="#0d1117" stroke="#3d444d" stroke-width="3"/>
-            <image href="https://raw.githubusercontent.com/JustArist/storage/main/images/icons/telegram.svg" x="23" y="15" width="60" height="60"/>
-            <text x="166" y="57" fill="#FFFFFF" font-size="32" font-family="Arial, sans-serif" text-anchor="middle">TG Channel</text>
-        </a>
-    </svg>&nbsp;&nbsp;&nbsp;
-    <svg xmlns="http://www.w3.org/2000/svg" width="286" height="90">
-        <a href="https://t.me/radaronebot" target="_blank">
-            <rect x="3" y="3" width="280" height="84" rx="14" ry="14" fill="#0d1117" stroke="#3d444d" stroke-width="3"/>
-            <image href="https://raw.githubusercontent.com/JustArist/storage/main/images/icons/telegram-bot.svg" x="23" y="21" width="45" height="45"/>
-            <text x="166" y="57" fill="#FFFFFF" font-size="32" font-family="Arial, sans-serif" text-anchor="middle">TG Bot</text>
-        </a>
-    </svg>&nbsp;&nbsp;&nbsp;
-    <svg xmlns="http://www.w3.org/2000/svg" width="286" height="90">
-        <a href="https://radarone.online" target="_blank">
-            <rect x="3" y="3" width="280" height="84" rx="14" ry="14" fill="#0d1117" stroke="#3d444d" stroke-width="3"/>
-            <image href="https://raw.githubusercontent.com/JustArist/storage/main/images/icons/web.svg" x="23" y="15" width="60" height="60"/>
-            <text x="166" y="57" fill="#FFFFFF" font-size="32" font-family="Arial, sans-serif" text-anchor="middle">Website</text>
-        </a>
-    </svg>&nbsp;&nbsp;&nbsp;
-    <svg xmlns="http://www.w3.org/2000/svg" width="286" height="90">
-        <a href="https://github.com/justarist/radarone" target="_blank">
-            <rect x="3" y="3" width="280" height="84" rx="14" ry="14" fill="#0d1117" stroke="#3d444d" stroke-width="3"/>
-            <image href="https://raw.githubusercontent.com/JustArist/storage/main/images/icons/github.svg" x="23" y="15" width="60" height="60"/>
-            <text x="166" y="57" fill="#FFFFFF" font-size="32" font-family="Arial, sans-serif" text-anchor="middle">GitHub</text>
-        </a>
-    </svg>
+<div align="center">
+    <a href="https://t.me/radaroneteam">
+        <img alt="Telegram-Channel" src="https://img.shields.io/badge/Telegram--Channel-32a5dd?style=for-the-badge&logo=telegram&logoColor=FFFFFF&logoSize=auto" height="28" />
+    </a>
+    <a href="https://t.me/radaronebot">
+        <img alt="Telegram-Bot" src="https://img.shields.io/badge/Telegram--bot-555555?style=for-the-badge&logo=probot&logoColor=FFFFFF&logoSize=auto" height="28" />
+    </a>
+    <a href="https://radarone.online">
+        <img alt="Website" src="https://img.shields.io/badge/Website-5cb947?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&logoSize=auto" height="28" />
+    </a>
+    <a href="https://github.com/justarist/radarone">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-4373b9?style=for-the-badge&logo=github&logoColor=FFFFFF&logoSize=auto" height="28" />
+    </a>
+</div>
+
+<div align="center">
+    <h1>Support Me</h1>
+</div>
+
+<div align="center">
+    <a href="https://boosty.to/justarist">
+        <img alt="Boosty" src="https://img.shields.io/badge/Boosty-f0622d?style=for-the-badge&logo=boosty&logoColor=FFFFFF&logoSize=auto" height="28" />
+    </a>
+    <a href="https://ko-fi/justarist">
+        <img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--Fi-2ba0d1?style=for-the-badge&logo=kofi&logoColor=FFFFFF&logoSize=auto" height="28" />
+    </a>
+    <a href="https://patreon.com/justarist">
+        <img alt="Patreon" src="https://img.shields.io/badge/Patreon-ec424c?style=for-the-badge&logo=patreon&logoColor=FFFFFF&logoSize=auto" height="28" />
+    </a>
+    <a href="https://donationalerts.com/r/justarist">
+        <img alt="DonationAlerts" src="https://img.shields.io/badge/DonationAlerts-97ca00?style=for-the-badge&logo=donationalerts&logoColor=FFFFFF&logoSize=auto" height="28" />
+    </a>
+    <a href="https://radarone.online">
+        <img alt="Crypto" src="https://img.shields.io/badge/Crypto-ef8e19?style=for-the-badge&logo=bitcoin&logoColor=FFFFFF&logoSize=auto" height="28" />
+    </a>
 </div>
