@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm JustArist. Welcome to my page! :rocket:</h1>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats-alpha-virid.vercel.app/?user=JustArist&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&theme=transparent&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&cache_bust=1"/>
+    <img src="https://github-readme-streak-stats-alpha-virid.vercel.app/?user=JustArist&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&theme=transparent&stroke=3a8fec&ring=3a8fec&fire=3a8fec&currStreakNum=3a8fec&sideNums=3a8fec&currStreakLabel=3a8fec&sideLabels=3a8fec&dates=3a8fec&excludeDaysLabel=3a8fec&cache_bust=1"/>
 </div>
 
 <div align="center">
