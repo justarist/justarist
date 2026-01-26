@@ -39,7 +39,7 @@
 </div>
 
 <div align="center">
-    <h1>Currently Working On Radar ONE</h1>
+    <h1>Currently Working on Radar ONE</h1>
 </div>
 
 <div align="center">
