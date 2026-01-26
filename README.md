@@ -1,21 +1,21 @@
 <h1 align="center">Hi, I'm JustArist. Welcome to my page! :rocket:</h1>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats-alpha-virid.vercel.app/?user=JustArist&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&theme=transparent&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF"/>
+    <img src="https://github-readme-streak-stats-alpha-virid.vercel.app/?user=JustArist&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&theme=transparent&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&cache_bust=1"/>
 </div>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustArist&bg_color=0d1117&title_color=3a8fec&color=3a8fec&line=3a8fec&point=3a8fec&area=true&hide_border=true&area_color=3a8fec"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustArist&bg_color=0d1117&title_color=3a8fec&color=3a8fec&line=3a8fec&point=3a8fec&area=true&hide_border=true&area_color=3a8fec&cache_bust=1"/>
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=JustArist&show_icons=true&hide_border=true&theme=transparent&title_color=3a8fec&text_color=999&icon_color=3a8fec" alt="Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=JustArist&show_icons=true&hide_border=true&theme=transparent&title_color=3a8fec&text_color=999&icon_color=3a8fec&cache_bust=1" alt="Stats" />
       </td>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustArist&theme=transparent&hide_border=true&layout=compact&langs_count=6&hide=dockerfile,shell,powershell&size_weight=1&count_weight=1&title_color=3a8fec&text_color=999" alt="Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustArist&theme=transparent&hide_border=true&layout=compact&langs_count=6&hide=dockerfile,shell,powershell&size_weight=1&count_weight=1&title_color=3a8fec&text_color=999&cache_bust=1" alt="Languages" />
       </td>
     </tr>
   </table>
