@@ -89,19 +89,19 @@
       <td align="center" valign="top" style="border:none;">
         <h2>Favourite Artists</h2>
         <a href="https://music.youtube.com/channel/UCeMsJJOE6avjyvbqP4Kf24g">
-            <img alt="Grazhdanskaya Oborona" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCeMsJJOE6avjyvbqP4Kf24g&cache_bust=1" height="120"/>
+            <img alt="Grazhdanskaya Oborona" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCeMsJJOE6avjyvbqP4Kf24g&cache_bust=1" height="112.5"/>
         </a>
         <a href="https://music.youtube.com/channel/UCOH7H-J4BAi-lR0c9MGwi7g">
-            <img alt="Egor Letov" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCOH7H-J4BAi-lR0c9MGwi7g&cache_bust=1" height="120"/>
+            <img alt="Egor Letov" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCOH7H-J4BAi-lR0c9MGwi7g&cache_bust=1" height="112.5"/>
         </a>
         <a href="https://music.youtube.com/channel/UCp7iKpAHOeSwiq7LQL6_0ug">
-            <img alt="Egor i Opizdenevshie" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCp7iKpAHOeSwiq7LQL6_0ug&cache_bust=1" height="120"/>
+            <img alt="Egor i Opizdenevshie" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCp7iKpAHOeSwiq7LQL6_0ug&cache_bust=1" height="112.5"/>
         </a>
         <a href="https://music.youtube.com/channel/UCMraDotjZTljynTjcpxLcug">
-            <img alt="Pornofilmy" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCMraDotjZTljynTjcpxLcug&cache_bust=1" height="120"/>
+            <img alt="Pornofilmy" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCMraDotjZTljynTjcpxLcug&cache_bust=1" height="112.5"/>
         </a>
         <a href="https://music.youtube.com/channel/UCxgN32UVVztKAQd2HkXzBtw">
-            <img alt="Linkin Park" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCxgN32UVVztKAQd2HkXzBtw&cache_bust=1" height="120"/>
+            <img alt="Linkin Park" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCxgN32UVVztKAQd2HkXzBtw&cache_bust=1" height="112.5"/>
         </a>
       </td>
       <td align="center" valign="top" style="border:none;">
