@@ -86,34 +86,34 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="border: none;">
+      <td align="center" valign="top" style="border:none;">
         <h2>Favourite Artists</h2>
         <a href="https://music.youtube.com/channel/UCeMsJJOE6avjyvbqP4Kf24g">
-            <img alt="Grazhdanskaya Oborona" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCeMsJJOE6avjyvbqP4Kf24g&cache_bust=1" height="122.5" />
+            <img alt="Grazhdanskaya Oborona" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCeMsJJOE6avjyvbqP4Kf24g&cache_bust=1" height="124"/>
         </a>
         <a href="https://music.youtube.com/channel/UCOH7H-J4BAi-lR0c9MGwi7g">
-            <img alt="Egor Letov" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCOH7H-J4BAi-lR0c9MGwi7g&cache_bust=1" height="122.5" />
+            <img alt="Egor Letov" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCOH7H-J4BAi-lR0c9MGwi7g&cache_bust=1" height="124"/>
         </a>
         <a href="https://music.youtube.com/channel/UCp7iKpAHOeSwiq7LQL6_0ug">
-            <img alt="Egor i Opizdenevshie" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCp7iKpAHOeSwiq7LQL6_0ug&cache_bust=1" height="122.5" />
+            <img alt="Egor i Opizdenevshie" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCp7iKpAHOeSwiq7LQL6_0ug&cache_bust=1" height="124"/>
         </a>
         <a href="https://music.youtube.com/channel/UCMraDotjZTljynTjcpxLcug">
-            <img alt="Pornofilmy" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCMraDotjZTljynTjcpxLcug&cache_bust=1" height="122.5" />
+            <img alt="Pornofilmy" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCMraDotjZTljynTjcpxLcug&cache_bust=1" height="124"/>
         </a>
         <a href="https://music.youtube.com/channel/UCxgN32UVVztKAQd2HkXzBtw">
-            <img alt="Linkin Park" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCxgN32UVVztKAQd2HkXzBtw&cache_bust=1" height="122.5" />
+            <img alt="Linkin Park" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCxgN32UVVztKAQd2HkXzBtw&cache_bust=1" height="124"/>
         </a>
       </td>
-      <td align="center" style="border: none;">
+      <td align="center" valign="top" style="border:none;">
         <h2>Favourite Tracks</h2>
         <a href="https://music.youtube.com/watch?v=n1y1tHtQHMM">
-            <img alt="Seven steps over horizont" src="https://dynamic-music-card.vercel.app/api/track?link=https://music.youtube.com/watch?v=n1y1tHtQHMM&cache_bust=1" height="325" />
+            <img alt="Seven steps over horizont" src="https://dynamic-music-card.vercel.app/api/track?link=https://music.youtube.com/watch?v=n1y1tHtQHMM&cache_bust=1" />
         </a>
         <a href="https://music.youtube.com/watch?v=c-bLTYOA5do">
-            <img alt="Nothing to lose" src="https://dynamic-music-card.vercel.app/api/track?link=https://music.youtube.com/watch?v=c-bLTYOA5do&cache_bust=1" height="325" />
+            <img alt="Nothing to lose" src="https://dynamic-music-card.vercel.app/api/track?link=https://music.youtube.com/watch?v=c-bLTYOA5do&cache_bust=1" />
         </a>
         <a href="https://music.youtube.com/watch?v=nOLDqnL146U">
-            <img alt="Rituals" src="https://dynamic-music-card.vercel.app/api/track?link=https://music.youtube.com/watch?v=nOLDqnL146U&cache_bust=1" height="325" />
+            <img alt="Rituals" src="https://dynamic-music-card.vercel.app/api/track?link=https://music.youtube.com/watch?v=nOLDqnL146U&cache_bust=1" />
         </a>
       </td>
     </tr>
