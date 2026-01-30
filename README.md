@@ -120,7 +120,7 @@
   </table>
   <sub>Music cards made by me • 
     <a href="https://github.com/justarist/dynamic-music-card">
-        Check out GitHub repo (click)
+        Check out GitHub repo
     </a>
   </sub>
 </div>
