@@ -7,7 +7,7 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustArist&bg_color=0d1117&title_color=3a8fec&color=3a8fec&line=3a8fec&point=3a8fec&area=true&hide_border=true&area_color=3a8fec&cache_bust=1"/>
 </div>
-
+<!-- hidden due to unavailability of service
 <div align="center">
   <table>
     <tr>
@@ -20,6 +20,7 @@
     </tr>
   </table>
 </div>
+-->
 
 <div align="center">
     <h1>Tech Stack</h1>
@@ -78,11 +79,10 @@
         <img alt="Crypto" src="https://img.shields.io/badge/Crypto-ef8e19?style=for-the-badge&logo=bitcoin&logoColor=FFFFFF&logoSize=auto" height="28" />
     </a>
 </div>
-
+<!-- hidden due to development and other reasons
 <div align="center">
   <h1>My Music</h1>
 </div>
-
 <div align="center">
   <table>
     <tr>
@@ -124,3 +124,5 @@
     </a>
   </sub>
 </div>
+-->
+
