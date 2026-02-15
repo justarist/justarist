@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustArist&bg_color=0d1117&title_color=3a8fec&color=3a8fec&line=3a8fec&point=3a8fec&area=true&hide_border=true&area_color=3a8fec&cache_bust=1"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=justarist&bg_color=0d1117&title_color=3a8fec&color=3a8fec&line=3a8fec&point=3a8fec&area=true&hide_border=true&area_color=3a8fec&cache_bust=1"/>
 </div>
 <!-- hidden due to unavailability of service
 <div align="center">
