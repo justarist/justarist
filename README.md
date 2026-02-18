@@ -29,7 +29,6 @@
 <div align="center">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF&logoSize=auto" height="28" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=javascript&logoColor=FFFFFF&logoSize=auto" height="28" />
-    <img alt="C++" src="https://img.shields.io/badge/C++-005697?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF&logoSize=auto" height="28" />
     <img alt="HTML" src="https://img.shields.io/badge/HTML-dd4b25?style=for-the-badge&logo=html5&logoColor=FFFFFF&logoSize=auto" height="28" />
     <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=FFFFFF&logoSize=auto" height="28" />
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&logoSize=auto" height="28" />
