@@ -7,7 +7,7 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=justarist&bg_color=0d1117&title_color=3a8fec&color=3a8fec&line=3a8fec&point=3a8fec&area=true&hide_border=true&area_color=3a8fec&cache_bust=1"/>
 </div>
-<!-- hidden due to unavailability of service
+
 <div align="center">
   <table>
     <tr>
@@ -20,7 +20,6 @@
     </tr>
   </table>
 </div>
--->
 
 <div align="center">
     <h1>Tech Stack</h1>
@@ -34,25 +33,6 @@
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&logoSize=auto" height="28" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=FFFFFF&logoSize=auto" height="28" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF&logoSize=auto" height="28" />
-</div>
-
-<div align="center">
-    <h1>Currently Working on Radar ONE</h1>
-</div>
-
-<div align="center">
-    <a href="https://t.me/radaroneteam">
-        <img alt="Telegram-Channel" src="https://img.shields.io/badge/Telegram--Channel-32a5dd?style=for-the-badge&logo=telegram&logoColor=FFFFFF&logoSize=auto" height="28" />
-    </a>
-    <a href="https://t.me/radaronebot">
-        <img alt="Telegram-Bot" src="https://img.shields.io/badge/Telegram--bot-555555?style=for-the-badge&logo=probot&logoColor=FFFFFF&logoSize=auto" height="28" />
-    </a>
-    <a href="https://radarone.online">
-        <img alt="Website" src="https://img.shields.io/badge/Website-5cb947?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&logoSize=auto" height="28" />
-    </a>
-    <a href="https://github.com/justarist/radarone">
-        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-4373b9?style=for-the-badge&logo=github&logoColor=FFFFFF&logoSize=auto" height="28" />
-    </a>
 </div>
 
 <div align="center">
@@ -76,50 +56,3 @@
         <img alt="Crypto" src="https://img.shields.io/badge/Crypto-ef8e19?style=for-the-badge&logo=bitcoin&logoColor=FFFFFF&logoSize=auto" height="28" />
     </a>
 </div>
-<!-- hidden due to development and other reasons
-<div align="center">
-  <h1>My Music</h1>
-</div>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" valign="top" style="border:none;">
-        <h2>Favourite Artists</h2>
-        <a href="https://music.youtube.com/channel/UCeMsJJOE6avjyvbqP4Kf24g">
-            <img alt="Grazhdanskaya Oborona" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCeMsJJOE6avjyvbqP4Kf24g&cache_bust=1" height="112.5"/>
-        </a>
-        <a href="https://music.youtube.com/channel/UCOH7H-J4BAi-lR0c9MGwi7g">
-            <img alt="Egor Letov" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCOH7H-J4BAi-lR0c9MGwi7g&cache_bust=1" height="112.5"/>
-        </a>
-        <a href="https://music.youtube.com/channel/UCp7iKpAHOeSwiq7LQL6_0ug">
-            <img alt="Egor i Opizdenevshie" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCp7iKpAHOeSwiq7LQL6_0ug&cache_bust=1" height="112.5"/>
-        </a>
-        <a href="https://music.youtube.com/channel/UCMraDotjZTljynTjcpxLcug">
-            <img alt="Pornofilmy" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCMraDotjZTljynTjcpxLcug&cache_bust=1" height="112.5"/>
-        </a>
-        <a href="https://music.youtube.com/channel/UCxgN32UVVztKAQd2HkXzBtw">
-            <img alt="Linkin Park" src="https://dynamic-music-card.vercel.app/api/artist?link=https://music.youtube.com/channel/UCxgN32UVVztKAQd2HkXzBtw&cache_bust=1" height="112.5"/>
-        </a>
-      </td>
-      <td align="center" valign="top" style="border:none;">
-        <h2>Favourite Tracks</h2>
-        <a href="https://music.youtube.com/watch?v=n1y1tHtQHMM">
-            <img alt="Seven steps over horizont" src="https://dynamic-music-card.vercel.app/api/track?link=https://music.youtube.com/watch?v=n1y1tHtQHMM&cache_bust=1" />
-        </a>
-        <a href="https://music.youtube.com/watch?v=c-bLTYOA5do">
-            <img alt="Nothing to lose" src="https://dynamic-music-card.vercel.app/api/track?link=https://music.youtube.com/watch?v=c-bLTYOA5do&cache_bust=1" />
-        </a>
-        <a href="https://music.youtube.com/watch?v=nOLDqnL146U">
-            <img alt="Rituals" src="https://dynamic-music-card.vercel.app/api/track?link=https://music.youtube.com/watch?v=nOLDqnL146U&cache_bust=1" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  <sub>Music cards made by me • 
-    <a href="https://github.com/justarist/dynamic-music-card">
-        Check out GitHub repo
-    </a>
-  </sub>
-</div>
--->
-
