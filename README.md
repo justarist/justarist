@@ -12,10 +12,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-stats-extended.vercel.app/api?username=JustArist&show_icons=true&hide_border=true&theme=transparent&title_color=3a8fec&text_color=999&icon_color=3a8fec&cache_bust=1" alt="Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=JustArist&show_icons=true&hide_border=true&theme=transparent&title_color=3a8fec&text_color=999&icon_color=3a8fec" alt="Stats" />
       </td>
       <td>
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JustArist&theme=transparent&hide_border=true&layout=compact&langs_count=6&hide=dockerfile,shell,powershell&size_weight=1&count_weight=1&title_color=3a8fec&text_color=999&cache_bust=1" alt="Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JustArist&theme=transparent&hide_border=true&layout=compact&langs_count=6&hide=dockerfile,shell,powershell&size_weight=1&count_weight=1&title_color=3a8fec&text_color=999" alt="Languages" />
       </td>
     </tr>
   </table>
