@@ -21,4 +21,4 @@
   </table>
 </div> -->
 
-<div align="center"><img src="https://wakatime.com/share/@JustArist/bebe9159-5917-4029-af80-e384145f2bc3.svg" style="height: 750px"></img></div>
+<div align="center"><img src="https://wakatime.com/share/@JustArist/bebe9159-5917-4029-af80-e384145f2bc3.svg" style="height: 600px"></img></div>
