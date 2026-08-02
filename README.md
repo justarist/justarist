@@ -8,7 +8,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=justarist&bg_color=0d1117&title_color=3a8fec&color=3a8fec&line=3a8fec&point=3a8fec&area=true&hide_border=true&area_color=3a8fec&cache_bust=1"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <table>
     <tr>
       <td>
@@ -19,31 +19,6 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
-<div align="center">
-    <h1>Tech Stack</h1>
-</div>
-
-<div align="center">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF&logoSize=auto" height="28" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=javascript&logoColor=FFFFFF&logoSize=auto" height="28" />
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-dd4b25?style=for-the-badge&logo=html5&logoColor=FFFFFF&logoSize=auto" height="28" />
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=FFFFFF&logoSize=auto" height="28" />
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&logoSize=auto" height="28" />
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=FFFFFF&logoSize=auto" height="28" />
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF&logoSize=auto" height="28" />
-</div>
-
-<div align="center">
-    <h1>Support Me</h1>
-</div>
-
-<div align="center">
-    <a href="https://ko-fi.com/justarist">
-        <img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--Fi-2ba0d1?style=for-the-badge&logo=kofi&logoColor=FFFFFF&logoSize=auto" height="28" />
-    </a>
-    <a href="https://patreon.com/justarist">
-        <img alt="Patreon" src="https://img.shields.io/badge/Patreon-ec424c?style=for-the-badge&logo=patreon&logoColor=FFFFFF&logoSize=auto" height="28" />
-    </a>
-</div>
+<div align="center"><img src="https://wakatime.com/share/@JustArist/bebe9159-5917-4029-af80-e384145f2bc3.svg" style="height: 750px"></img></div>
