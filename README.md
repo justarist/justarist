@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm JustArist. Welcome to my page! :rocket:</h1>
+<h1 align="center">Hello, my name is JustArist</h1>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats-alpha-virid.vercel.app/?user=justarist&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=daily&theme=transparent&stroke=3a8fec&ring=3a8fec&fire=3a8fec&currStreakNum=3a8fec&sideNums=3a8fec&currStreakLabel=3a8fec&sideLabels=3a8fec&dates=3a8fec&excludeDaysLabel=3a8fec"/>
-</div> <!-- again daily mode instead of weekly -->
+    <img src="https://github-readme-streak-stats-alpha-virid.vercel.app/?user=justarist&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&theme=transparent&stroke=3a8fec&ring=3a8fec&fire=3a8fec&currStreakNum=3a8fec&sideNums=3a8fec&currStreakLabel=3a8fec&sideLabels=3a8fec&dates=3a8fec&excludeDaysLabel=3a8fec"/>
+</div> <!-- i have no such amount of time anymore ¯\_(ツ)_/¯ -->
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=justarist&bg_color=0d1117&title_color=3a8fec&color=3a8fec&line=3a8fec&point=3a8fec&hide_border=true"/>
